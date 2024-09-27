@@ -32,19 +32,19 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
 > ˼🪪˹↜ 𝐓𝐮 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐜𝐢ó𝐧 ↶
 ╮───────────────────⟢ـ
 ┆⚡↜ ¿distinto?↞⌊ ${user.premiumTime > 0 ? '🔱𝑫𝒊𝒔𝒕𝒊𝒏𝒕𝒐' : (isPrems ? '🔱𝑫𝒊𝒔𝒕𝒊𝒏𝒕𝒐' : '𝐧𝐨𝐫𝐦𝐚𝐥🍁') || ''} ⌉
-┆⚜️↜ tu nivel↞⌊ ${level} ⌉
-┆💫↜ tu rango↞⌊ ${role} ⌉
+┆⚜️↜ nivel↞⌊ ${level} ⌉
+┆💫↜ rango↞⌊ ${role} ⌉
 ┆🧰↜ pericia↞⌊ ${exp} ⌉
 ┆💎↜ diamante↞⌊ ${limit} ⌉
 ╯───────────────────⟢ـ
 > ˼🤖˹↜ 𝐞𝐥 𝐫𝐨𝐛𝐨𝐭↶
 ╮───────────────────⟢ـ
-┆⚙️ ↜Nombre del robot↶﹝𝐅𝐋𝐀𝐒𝐇﹞
+┆⚙️ ↜robot ↶﹝𝐅𝐋𝐀𝐒𝐇﹞
 ┆🪄 ↜Revelador ↶﹝𝐅𝐋𝐀𝐒𝐇_𝐓𝐄𝐀𝐌﹞
 ┆📌 ↜Operante ↶﹝${uptime}﹞
 ┆🔖 ↜Usuarios ↶﹝${rtotalreg}﹞
 ╯───────────────────⟢ـ
-> © 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊 2025`,subtitle: "HARLEY",},header: { hasMediaAttachment: true,...(await prepareWAMessageMedia({ image : { url: harley } }, { upload: conn.waUploadToServer }, {quoted: m}))},
+> © 𝐍𝐀𝐑𝐔𝐓𝐎 & 𝐙𝐀𝐂𝐊 2025`,subtitle: "Zack",},header: { hasMediaAttachment: true,...(await prepareWAMessageMedia({ image : { url: harley } }, { upload: conn.waUploadToServer }, {quoted: m}))},
                     contextInfo: {
                         mentionedJid: [m.sender],
                         isForwarded: false,
@@ -61,10 +61,10 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                             highlight_label: 'flash te ama 🤖',
                                             rows: [
                                                 {
-                                                    header: 'الــقـ👑ـســم الـاول',
-                                                    title: 'استدعاء_قسم_الاعضاء #الاعضاء',
+                                                    header: 'Primera sección',
+                                                    title: '#Primera',
                                                     description: '',
-                                                    id: '.ق1'
+                                                    id: '.menu1'
                                                 },
                                                 {
                                                     header: 'الــقـ👨🏻‍💻ـســم الــثــانــي',
