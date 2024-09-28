@@ -62,33 +62,33 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                             rows: [
                                                 {
                                                     header: 'Primera sección',
-                                                    title: '#Primera',
+                                                    title: '#menu1',
                                                     description: '',
                                                     id: '.menu1'
                                                 },
                                                 {
-                                                    header: 'الــقـ👨🏻‍💻ـســم الــثــانــي',
-                                                    title: 'استدعاء_قسم_المشرفين #المشرفين',
+                                                    header: 'Segunda sección',
+                                                    title: '#menu2',
                                                     description: '',
-                                                    id: '.ق10'
+                                                    id: '.menu2'
                                                 },
                                                 {
-                                                    header: 'الــقـ🕋ـســم الــثــالــث',
-                                                    title: 'استدعاء_قسم_الدين #الدين',
+                                                    header: 'Sección tres',
+                                                    title: '#menu3',
                                                     description: '',
-                                                    id: '.ق2'
+                                                    id: '.menu3'
                                                 },
                                                 {
-                                                    header: 'الــقـ👑ـســم الــرابــع',
-                                                    title: 'استدعاء_قسم_المطور #المطور',
+                                                    header: 'Sección cuatro',
+                                                    title: '#menu4',
                                                     description: '',
-                                                    id: '.ق3'
+                                                    id: '.menu4'
                                                 },
                                                 {
-                                                    header: 'الــقـ🛡ـســم الــخــامــس',
-                                                    title: 'استدعاء_قسم_التنزيلات #التنزيلات',
+                                                    header: 'Sección Cinco',
+                                                    title: '#menu5',
                                                     description: '',
-                                                    id: '.ق4'
+                                                    id: '.menu5'
                                                 },
                                                 {
                                                     header: 'الــقـ🕹ـســم الــســادس',
