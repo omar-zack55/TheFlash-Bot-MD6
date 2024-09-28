@@ -31,7 +31,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { header: { title: `harley`}, body: { text: `˼⚡˹↜ 𝑯𝒐𝒍𝒂 @${mentionId.split('@')[0]}
 > ˼🪪˹↜ 𝐓𝐮 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐜𝐢ó𝐧 ↶
 ╮───────────────────⟢ـ
-┆⚡↜ ¿distinto?↞⌊ ${user.premiumTime > 0 ? '🔱𝑫𝒊𝒔𝒕𝒊𝒏𝒕𝒐' : (isPrems ? '🔱𝑫𝒊𝒔𝒕𝒊𝒏𝒕𝒐' : '𝐧𝐨𝐫𝐦𝐚𝐥🍁') || ''} ⌉
+┆⚡↜ PREMIUM↞⌊ ${user.premiumTime > 0 ? '✔' : (isPrems ? '✔' : '❌') || ''} ⌉
 ┆⚜️↜ nivel↞⌊ ${level} ⌉
 ┆💫↜ rango↞⌊ ${role} ⌉
 ┆🧰↜ pericia↞⌊ ${exp} ⌉
