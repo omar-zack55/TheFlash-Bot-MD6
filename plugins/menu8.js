@@ -28,14 +28,14 @@ let str = `
 👏*!Hola!* / ${taguser}
 > 🔁 *CONVERTIDORES* 🔁
 ╮───────────────────⟢ـ
-┆ ⌊ ${usedPrefix}toimg | img | jpg *sticker*_
-┆ ⌊ ${usedPrefix}toanime | jadianime *foto*_
-┆ ⌊ ${usedPrefix}tomp3 | mp3 *video o nota de voz*_
-┆ ⌊ ${usedPrefix}tovn | vn *video o audio*_
-┆ ⌊ ${usedPrefix}tovideo *audio*_
-┆ ⌊ ${usedPrefix}tourl *video, imagen*_
-┆ ⌊ ${usedPrefix}toenlace  *video, imagen o audio*_
-┆ ⌊ ${usedPrefix}tts es *texto*_
+┆ ⌊ ${usedPrefix}toimg | img | jpg *sticker* ⌉
+┆ ⌊ ${usedPrefix}toanime | jadianime *foto* ⌉
+┆ ⌊ ${usedPrefix}tomp3 | mp3 *video o nota de voz* ⌉
+┆ ⌊ ${usedPrefix}tovn | vn *video o audio* ⌉
+┆ ⌊ ${usedPrefix}tovideo *audio* ⌉
+┆ ⌊ ${usedPrefix}tourl *video, imagen* ⌉
+┆ ⌊ ${usedPrefix}toenlace  *video, imagen o audio* ⌉
+┆ ⌊ ${usedPrefix}tts es *texto* ⌉
 ╯───────────────────⟢ـ
 > 𝐅𝐋𝐀𝐒𝐇﹝⚡﹞𝐁𝐎𝐓
 `.trim()
