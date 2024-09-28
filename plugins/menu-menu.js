@@ -91,34 +91,76 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                                     id: '.menu5'
                                                 },
                                                 {
-                                                    header: 'الــقـ🕹ـســم الــســادس',
-                                                    title: 'استدعاء_قسم_الالعاب #الالعاب',
+                                                    header: 'Sección Seis',
+                                                    title: '#menu6',
                                                     description: '',
-                                                    id: '.ق5'
+                                                    id: '.menu6'
                                                 },
                                                 {
-                                                    header: 'الــقـ🌀ـســم الــســابــع',
-                                                    title: 'استدعاء_قسم_التحويلات #التحويلات',
+                                                    header: 'Sección Siete',
+                                                    title: '#menu7',
                                                     description: '',
-                                                    id: '.ق6'
+                                                    id: '.menu7'
                                                 },
                                                 {
-                                                    header: 'الــقـ🤖ـســم الــتــاســع',
-                                                    title: 'استدعاء_قسم_الذكاء #الذكاء',
+                                                    header: 'Sección ocho',
+                                                    title: '#menu8',
                                                     description: '',
-                                                    id: '.ق7'
+                                                    id: '.menu8'
                                                 },
                                                 {
-                                                    header: 'الــقـ🚨ـســم الــعــاشــر',
-                                                    title: 'استدعاء_قسم_الدعم #الدعم',
+                                                    header: 'Sección Nueve',
+                                                    title: '#menu9',
                                                     description: '',
-                                                    id: '.ق8'
+                                                    id: '.menu9'
                                                 },
                                                 {
-                                                    header: 'الــقـ🔍ـســم �لــحــاديــة عــشــر',
-                                                    title: 'استدعاء_قسم_ابحث #البحث',
+                                                    header: 'Sección Diez',
+                                                    title: '#menu10',
                                                     description: '',
-                                                    id: '.ق11'
+                                                    id: '.menu10'
+                                                },
+                                                {
+                                                    header: 'Sección Once',
+                                                    title: '#menu11',
+                                                    description: '',
+                                                    id: '.menu11'
+                                                },
+                                                {
+                                                    header: 'Sección Doce',
+                                                    title: '#menu12',
+                                                    description: '',
+                                                    id: '.menu12'
+                                                },
+                                                {
+                                                    header: 'Sección trece',
+                                                    title: '#menu13',
+                                                    description: '',
+                                                    id: '.menu13'
+                                                },
+                                                {
+                                                    header: 'Sección Catorce',
+                                                    title: '#menu14',
+                                                    description: '',
+                                                    id: '.menu14'
+                                                },
+                                                {
+                                                    header: 'Sección quince',
+                                                    title: '#menu15',
+                                                    description: '',
+                                                    id: '.menu15'
+                                                },
+                                                {
+                                                    header: 'Sección dieciséis',
+                                                    title: '#menu16',
+                                                    description: '',
+                                                    id: '.menu16'
+                                                },
+                                                {
+                                                    header: 'Sección diecisiete',
+                                                    title: '#menu17',
+                                                    description: '',
+                                                    id: '.menu17'
                                                }
                                             ]
                                         }
@@ -128,7 +170,7 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                 },
                 {
               name: "quick_reply",
-              buttonParamsJson: '{"display_text":"⌈✅╎Desarrolladores╎✅⌋","id":".owner"}'
+              buttonParamsJson: '{"display_text":"⌈✅╎Desarrolladores╎✅⌋","id":".المطور"}'
                      },
                      {
                name: "cta_url",
