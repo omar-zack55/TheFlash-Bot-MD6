@@ -154,13 +154,31 @@ conn.relayMessage(m.chat, { viewOnceMessage: { message: { interactiveMessage: { 
                                                     header: 'Sección dieciséis',
                                                     title: '#menu16',
                                                     description: '',
-                                                    id: '.menu16'
+                                                    id: '.listaporno'
                                                 },
                                                 {
                                                     header: 'Sección diecisiete',
                                                     title: '#menu17',
                                                     description: '',
-                                                    id: '.menu17'
+                                                    id: '.hornymenu'
+                                                },
+                                                {
+                                                    header: 'Sección diecisiete',
+                                                    title: '#menu18',
+                                                    description: '',
+                                                    id: '.listhorny'
+                                                },
+                                                {
+                                                    header: 'Sección diecisiete',
+                                                    title: '#menu19',
+                                                    description: '',
+                                                    id: '.buscarmenu'
+                                                },
+                                                {
+                                                    header: 'Sección diecisiete',
+                                                    title: '#menu20',
+                                                    description: '',
+                                                    id: '.descargasmenu'
                                                }
                                             ]
                                         }
