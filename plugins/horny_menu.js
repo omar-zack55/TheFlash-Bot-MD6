@@ -807,7 +807,7 @@ console.log(e)}
 }
 handler.help = ['infomenu'].map(v => v + 'able <option>')
 handler.tags = ['group', 'owner']
-handler.command = ['audioefectomenu', 'buscarmenu', 'hornymenu', 'listaporno', 'listhorny', 'convertidormenu', 'descargasmenu', 'juegosmenu', 'grupomenu',
+handler.command = ['audioefectomenu', 'buscarmenu', 'menu20', 'menu21', 'menu19', 'convertidormenu', 'descargasmenu', 'juegosmenu', 'grupomenu',
 'herramientasmenu', 'infomenu', 'makermenu', 'menulogos2', 'ownermenu', 'randommenu', 'rpgmenu', 'stickermenu', 'menu18', 'menugrupo'] 
 //handler.register = true
 handler.exp = 50
